@@ -1,2 +1,2 @@
 # study
-test for github
+test to github
